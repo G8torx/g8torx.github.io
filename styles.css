@@ -149,7 +149,7 @@ a{
   display: flex;
   margin: 5% auto;
   flex: 1;
-  background: linear-gradient(45deg, #3863ff, #4508ff, #a408ff, #da33ff, #ff47f0);
+  background: linear-gradient(45deg, #08ff08, #68fd65, #94ff96, #08ff08);
 }
 
 .projects-bg{
